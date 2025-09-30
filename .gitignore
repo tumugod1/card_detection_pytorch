@@ -1,0 +1,15 @@
+# ---- Python ----
+
+
+# ---- Virtual environments ----
+playingcard-env/
+
+# ---- OS / IDE ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+
+
+
